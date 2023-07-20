@@ -1,3 +1,4 @@
+//DANRUS S. MAGBANUA
 
 public class StrongNumber 
 {
